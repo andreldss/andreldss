@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm André
 
-Aspiring full-stack developer, mainly working with Next.js, React, TypeScript, Firebase, and MySQL, but I enjoy exploring different areas of programming.
+Aspiring full-stack developer from Orleans, Santa-Catarina, Brazil! mainly working with Next.js, React, TypeScript, Firebase, and MySQL, but I enjoy exploring different areas of programming.
 
 I love bringing ideas to life. Working on a project, designing the flow, shaping it piece by piece.. that process really draws me in.
 
