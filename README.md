@@ -44,7 +44,7 @@ Currently working at Copobras S/A as a Junior Software Developer.
 If you'd like to chat, collaborate, or talk about projects:
 
 - ✉️ andredejs1911@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/andré-luiz-dos-santos-63ba7b200)  
+- 💼 [LinkedIn]([www.linkedin.com/in/andré-luiz-dos-santos-63ba7b200](https://www.linkedin.com/in/andreldss/))  
 
 ---
 
