@@ -37,9 +37,9 @@ Currently working at Copobras S/A as a Junior Software Developer.
     - Calendar-based scheduling interface
     - Planned: automated email reminders and future WhatsApp/AI integration
 
-### 📬 Contact
-
 ---
+
+### 📬 Contact
 
 If you'd like to chat, collaborate, or talk about projects:
 
